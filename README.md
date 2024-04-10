@@ -1,2 +1,2 @@
 # soc_colab
-Code from collaboration with JF on SOC in complex systems.
+Code from collaboration with JF on potential SOC in complex systems.
